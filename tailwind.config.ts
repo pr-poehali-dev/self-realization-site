@@ -61,7 +61,12 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				inspire: '#FF6B35',
+				motivational: '#4A90E2',
+				growth: '#2ECC71',
+				'deep-gray': '#334495E',
+				warm: '#FFF6F35'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
